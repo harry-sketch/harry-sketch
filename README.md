@@ -2,7 +2,7 @@
 - 👀 I’m React Js Developer   
 - 🌱 I’m currently learning Python ,React js,Nodejs $ Databases
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me mob no. 9315708243/harshbisht90@gmail.com
+- 📫 How to reach me mob no. 8126301308 /harshbisht90@gmail.com
 
 <!---
 harry-sketch/harry-sketch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
