@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @harry-sketch
-- 📫 How to reach me mob no. 8126301308 /harshbisht90@gmail.com
+- 📫 React Js Dev.
 - Thnks for Visiting...
 
 <!---
