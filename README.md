@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @harry-sketch
-- 📫 React Js Dev.
+- 📫 Full-Stack MERN Dev.
 - Thnks for Visiting...
 
 <!---
