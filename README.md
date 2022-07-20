@@ -6,13 +6,9 @@
 
 # 🧍 *About me*:
 
-**I'm a self-motivated computer science engineer with a keen interest in coding.**
-
 - 🔭 DEV at at **[Huddle 01](https://huddle01.com/)** 
 
-- 🔭  **MERN** 
-
-- 📫 How to reach me **harshbisht90@gmail.com**
+- 🔭  **FULL**-**STACK** **MERN** 
 
 # ⚙️ *Skills*:
 - MERN Development 
