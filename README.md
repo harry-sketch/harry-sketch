@@ -1,8 +1,25 @@
-- 👋 Hi, I’m @harry-sketch
-- 📫 Full-Stack MERN Dev.
-- Thnks for Visiting...
+# **Hi there 👋 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> , I am** [HARSH VARDHAN BISHT] 
 
-<!---
-harry-sketch/harry-sketch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[<img src="https://img.shields.io/badge/Github-%23eeeeee.svg?&style=for-the-badge&logo=github&logoColor=black">](https://github.com/Anmolnoor)
+[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:harshbisht90@gmail.com)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/harsh-vardhan-bisht-9600b0209/)
+
+# 🧍 *About me*:
+
+**I'm a self-motivated computer science engineer with a keen interest in coding.**
+
+- 🔭 DEV at at **[Huddle 01](https://huddle01.com/)** 
+
+- 🔭  **MERN** 
+
+- 📫 How to reach me **harshbisht90@gmail.com**
+
+# ⚙️ *Skills*:
+- MERN Development 
+- Front-End with React, Next 
+- Back-End with NodeJS, Express, Axios 
+- Database MongoDb
+- Typescript
+- CSS FrameWork BootStrap, Tailwind
+- UI/UX Designing with Figma, AdobeXD, Photoshop 
+- Git/GitHub 
