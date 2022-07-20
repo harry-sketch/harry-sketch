@@ -14,5 +14,5 @@
 - Back-End with NodeJS, Express, Axios 
 - Database MongoDb
 - Typescript
-- CSS FrameWork BootStrap, Tailwind,Styled-Components
+- CSS FrameWork BootStrap, Tailwind, Styled-Components
 - Git/GitHub 
