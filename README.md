@@ -6,9 +6,7 @@
 
 # 🧍 *About me*:
 
-- 🔭 DEV at at **[Huddle 01](https://huddle01.com/)** 
-
-- 🔭  **FULL**-**STACK** **MERN** 
+- 🔭 DEV at **[Huddle 01](https://huddle01.com/)** [**FULL**-**STACK** **MERN** ]
 
 # ⚙️ *Skills*:
 - MERN Development 
@@ -16,6 +14,5 @@
 - Back-End with NodeJS, Express, Axios 
 - Database MongoDb
 - Typescript
-- CSS FrameWork BootStrap, Tailwind
-- UI/UX Designing with Figma, AdobeXD, Photoshop 
+- CSS FrameWork BootStrap, Tailwind,Styled-Components
 - Git/GitHub 
