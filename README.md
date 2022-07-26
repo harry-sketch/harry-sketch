@@ -1,4 +1,4 @@
-# **Hi there 👋 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> , I am** [HARSH VARDHAN BISHT] 
+# **Hi there 👋  , I am** [HARSH VARDHAN BISHT] 
 
 [<img src="https://img.shields.io/badge/Github-%23eeeeee.svg?&style=for-the-badge&logo=github&logoColor=black">](https://github.com/Anmolnoor)
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:harshbisht90@gmail.com)
