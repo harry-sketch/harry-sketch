@@ -1,14 +1,15 @@
 # **Hi there 👋  , I am** [HARSH VARDHAN BISHT] 
 
-[<img src="https://img.shields.io/badge/Github-%23eeeeee.svg?&style=for-the-badge&logo=github&logoColor=black">](https://github.com/Anmolnoor)
-[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:harshbisht90@gmail.com)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/harsh-vardhan-bisht-9600b0209/)
+[GITHUB](https://github.com/harry-sketch)
+[GMAIL](mailto:harshbisht90@gmail.com)
+[LINKEDIN](https://www.linkedin.com/in/harsh-vardhan-bisht-9600b0209/)
 
-# 🧍 *About me*:
+#  *About me*:
 
-- 🔭 DEV at **[Huddle 01](https://huddle01.com/)** [**FULL**-**STACK** **MERN** ]
+-  DEV at **[Huddle 01](https://huddle01.com/)** [**FULL**-**STACK** **MERN** ]
 
-# ⚙️ *Skills*:
+
+#  *Skills*:
 - MERN Development 
 - Front-End with React, Next 
 - Back-End with NodeJS, Express, Axios 
