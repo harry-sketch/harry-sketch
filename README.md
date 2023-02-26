@@ -1,4 +1,4 @@
-# **Hi there 👋  , I am** [HARSH VARDHAN BISHT] 
+# **👋  , I am** [HARSH] 
 
 [GITHUB](https://github.com/harry-sketch)
 [GMAIL](mailto:harshbisht90@gmail.com)
@@ -13,6 +13,7 @@
 - MERN Development 
 - Front-End with React, Next 
 - Back-End with NodeJS, Express, Axios 
+- T3 Stack
 - Database MongoDb
 - Typescript
 - CSS FrameWork BootStrap, Tailwind, Styled-Components
