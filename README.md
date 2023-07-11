@@ -8,7 +8,8 @@
 [LINKEDIN](https://www.linkedin.com/in/harsh-vardhan-bisht-9600b0209/)
 
 - MERN Development 
-- Front-End with React, Next 
+- Front-End with React, Next
+- Socket.io
 - Back-End with NodeJS, Express, Axios 
 - T3 Stack
 - Database MongoDb
