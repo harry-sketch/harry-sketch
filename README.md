@@ -12,7 +12,7 @@
 - Socket.io
 - Back-End with NodeJS, Express, Axios 
 - T3 Stack
-- Database MongoDb
+- Database
 - Typescript
 - CSS FrameWork BootStrap, Tailwind, Styled-Components
 - Git/GitHub 
