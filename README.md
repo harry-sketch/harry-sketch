@@ -8,9 +8,10 @@
 [LINKEDIN](https://www.linkedin.com/in/harsh-vardhan-bisht-9600b0209/)
 
 - MERN Development 
-- Front-End with React, Next
+- Front-End with React, Next, Typescript
 - Socket.io
-- Back-End with NodeJS, Express, Axios 
+- Back-End with NodeJS, Express, Axios
+- TRPC
 - T3 Stack
 - Database
 - Typescript
