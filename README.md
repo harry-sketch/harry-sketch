@@ -2,7 +2,7 @@
 
    HARSH 
    
- - DEV at **[Huddle 01](https://huddle01.com/)**
+ - SOFTWARE ENGINEER
 
 - [GITHUB](https://github.com/harry-sketch)
 [LINKEDIN](https://www.linkedin.com/in/harsh-vardhan-bisht-9600b0209/)
