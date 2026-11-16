@@ -1,22 +1,7 @@
-<> 
+##### harsh / README.md
 
-   HARSH 
-   
- - SOFTWARE ENGINEER
- - [PORTFOLIO](https://itsharsh.vercel.app)
+<div align="center">
 
-- [GITHUB](https://github.com/harry-sketch)
-[LINKEDIN](https://www.linkedin.com/in/harsh-vardhan-bisht-9600b0209/)
+[me](https://itsharsh.vercel.app) · [about](https://itsharsh.vercel.app/#about) · [projects](https://github.com/harry-sketch?tab=repositories) · [github](https://github.com/harry-sketch) · [linkedin](https://www.linkedin.com/in/harsh-vardhan-bisht-9600b0209/) · [contact](mailto:harsh@example.com)
 
-- MERN Development 
-- Front-End with React, Next, Typescript
-- Socket.io
-- Back-End with NodeJS, Express, Axios
-- TRPC
-- T3 Stack
-- Database
-- Typescript
-- CSS FrameWork BootStrap, Tailwind, Styled-Components
-- Git/GitHub 
-
-</>
+</div>
