@@ -1,4 +1,3 @@
-##### harsh / README.md
 
 <div align="center">
 
